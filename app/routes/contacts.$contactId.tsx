@@ -49,6 +49,7 @@ export default function Contact() {
           <Form action="edit">
             <button type="submit">Edit</button>
             <p>hello 1</p>
+            <p>hello 2</p>
           </Form>
 
           <Form
