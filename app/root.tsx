@@ -75,6 +75,7 @@ export default function App() {
                 <p>hello world</p>
                 <p>asassasa</p>
                 <p>james bond 007</p>
+                <p>Barcelona</p>
               </p>
             )}
           </nav>
