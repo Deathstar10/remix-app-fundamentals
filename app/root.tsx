@@ -74,7 +74,7 @@ export default function App() {
                 <i>No contacts</i>
                 <p>hello world</p>
                 <p>asassasa</p>
-                <p>james bond</p>
+                <p>james bond 007</p>
               </p>
             )}
           </nav>
