@@ -11,6 +11,8 @@ export default function Contact() {
     twitter: "your_handle",
     notes: "Some notes",
     favorite: true,
+    email: "a@gmail.com",
+    age: 27,
   };
 
   return (
